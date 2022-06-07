@@ -15,10 +15,7 @@
 
 body {
   background-color: #FAD5A5;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+
 }
 
 .navbar {
